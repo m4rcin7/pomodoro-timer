@@ -23,7 +23,7 @@ The Pomodoro Technique is a time management method based on 25-minute stretches 
 How install this project?
 
 ```bash
-    git clone https://github.com/markopersonally/crud_app.git
+    git clone https://github.com/m4rcin7/crud_app.git
     open your editor / open html file
     Go Live
 ```
